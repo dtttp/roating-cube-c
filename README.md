@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>Mi pedazo de demo</strong><br>
+  <strong>Illustration</strong><br>
   <img src="demostration.png" alt="Demostration" width="400">
 </p>
 
