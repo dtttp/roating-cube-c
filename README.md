@@ -1,6 +1,6 @@
 <p align="center">
   <strong>Illustration</strong><br>
-  <img src="demostration.png" alt="Demostration" width="400">
+  <img src="demostration.png" alt="Demostration" width="700">
 </p>
 
 ## Roating Cube
