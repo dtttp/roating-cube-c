@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="demostration.png" alt="Demostration" width="400">
+</p>
+
 ## Roating Cube
 This is a 3D rotating cube with ASCII in the middle of 2025, inspired by videos like "Code Fiction", yes, from 3 years ago, with some kids, I decided to use C, because it's better than Python in the first place, but anyway, this shitty cube took a few hours to develop, here are the sources of inspiration:
 > https://www.youtube.com/watch?v=p09i_hoFdd0
